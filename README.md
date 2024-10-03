@@ -1,4 +1,4 @@
 # [DIO](https://www.dio.me) - Power BI
-## Desafio 05
-Criação de uma modelagem em estrela (Star Schema) a partir de uma amostra de dados fornecida no curso (Financial Sample.xlsx)
-Atividade realizada através de modelagem no PowerBI e utilizando a expressão DAX CALENDAR para criação de uma tabela de datas, possibilitando análises temporais dos dados.
+## Desafio 06
+Criação de um relatório baseado em projetos prévios do curso.
+Realizadas personalizações e criação de botões que tornam a experiência do usuário mais dinâmica ao navegar pelo relatório.
