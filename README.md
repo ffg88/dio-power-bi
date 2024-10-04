@@ -1,4 +1,3 @@
 # [DIO](https://www.dio.me) - Power BI
-## Desafio 06
-Criação de um relatório baseado em projetos prévios do curso.
-Realizadas personalizações e criação de botões que tornam a experiência do usuário mais dinâmica ao navegar pelo relatório.
+## Desafio 07
+Criação de um relatório final com análise avançada de dados e uso de visuais personalizados. Baseado em projetos prévios do curso e fonte de dados fornecida (Financial Sample).
